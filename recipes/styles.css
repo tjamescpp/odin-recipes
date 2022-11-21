@@ -1,0 +1,33 @@
+/* css */
+
+/* class selectors */
+
+.headers {
+    text-align: center;
+    color: darkgray;
+}
+
+/* id selector */
+#desciption {
+    color: red;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 14px;
+}
+
+.lists.unordered {
+    background-color: #00ff0080;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
